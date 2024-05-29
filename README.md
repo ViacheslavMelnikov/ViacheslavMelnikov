@@ -1,5 +1,6 @@
-## Hi there 👋
+## Привет! 👋
 
+- 🔭 На сегодняшний день я работаю ИП программистом. Занимаюсь полным сопровождением созданного мною программного обеспечения Экспертиза.
 <!--
 **ViacheslavMelnikov/ViacheslavMelnikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
